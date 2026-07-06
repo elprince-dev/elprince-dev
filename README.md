@@ -63,6 +63,8 @@ I enjoy transforming complex problems into reliable software with clean architec
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql,html,css" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ### AI Engineering
 
 <p align="center">
@@ -81,11 +83,15 @@ I enjoy transforming complex problems into reliable software with clean architec
 
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ### Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,sqlite" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ### Frontend
 
@@ -93,11 +99,15 @@ I enjoy transforming complex problems into reliable software with clean architec
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ### Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 **AWS Services**
 
