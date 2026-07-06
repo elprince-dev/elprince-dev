@@ -29,6 +29,8 @@
 ---
 
 # 🚀 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2"/>
 
 I'm a software engineer passionate about building **production-ready AI systems** powered by Large Language Models, cloud-native infrastructure, and scalable backend services.
 
