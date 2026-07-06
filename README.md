@@ -1,62 +1,138 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://elprince.net)
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elprince-dev&label=Profile%20views&color=0e75b6&style=flat" alt="elprince-dev" /> </p>
-
-- 👨‍💻 All of my projects are available at [elprince.net](https://elprince.net)
-
-- 💬 Ask me about **React and Next.js. I love coding front-end!**
-
-- 📫 How to reach me **mohammad-elprince@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-elprince/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedhusseinofficial" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<p align="center">
+  <a href="https://elprince.net">
+    <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="banner">
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elprince-dev&show_icons=true&locale=en&layout=compact" alt="elprince-dev" /></p>
+<h1 align="center">
+Hi 👋 I'm Mohammad El Prince
+</h1>
+
+<h3 align="center">
+AI Software Engineer • Agentic AI Developer • AWS Cloud Engineer
+</h3>
+
+<p align="center">
+Building intelligent software with AI agents, cloud-native architecture, and scalable backend systems.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer passionate about building production-ready AI applications.
+
+My background combines **software engineering**, **cloud architecture**, and **real-world analytics**, allowing me to design systems that are both intelligent and scalable.
+
+Currently I'm focused on:
+
+- 🤖 Agentic AI applications
+- 🧠 LLM orchestration & multi-agent systems
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ☁️ AWS Cloud & Serverless Architecture
+- ⚡ FastAPI backend development
+- 🚀 Modern React / Next.js applications
+
+I'm actively seeking opportunities as an:
+
+- AI Software Engineer
+- Agentic AI Engineer
+- Software Engineer
+- Cloud Engineer
+- Backend Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql,html,css" />
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- LangGraph
+- OpenAI
+- Claude
+- RAG
+- MCP
+- AI Agents
+- Vector Databases
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,sqlite" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
+</p>
+
+- AWS CDK
+- Lambda
+- API Gateway
+- CloudFront
+- S3
+- RDS
+- IAM
+- VPC
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🔍 Enterprise RAG Applications
+- ☁️ Cloud-native Serverless APIs
+- 📊 AI-powered Productivity Tools
+- 🌐 Full-stack SaaS Applications
+
+---
+
+## 🏆 Certifications
+
+- ✅ AWS Certified Solutions Architect – Associate
+- ✅ AWS Certified Cloud Practitioner
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elprince-dev&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprince-dev&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elprince-dev&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+🌍 Portfolio: **https://elprince.net**
+
+💼 LinkedIn: **https://linkedin.com/in/mohammad-elprince**
+
+📫 Email: **mohammad-elprince@proton.me**
+
+---
+
+> *"I enjoy building software that combines AI, cloud infrastructure, and thoughtful engineering to solve real-world problems."*
