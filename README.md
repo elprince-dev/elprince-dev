@@ -192,20 +192,18 @@ S3 • RDS • IAM • VPC • Route53
 
 <p align="center">
 
-<a href="https://elprince.net">
-Portfolio
-</a>
+<p align="center">
 
-•
+<a href="https://elprince.net">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
+</a>
 
 <a href="https://linkedin.com/in/mohammad-elprince">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-•
-
 <a href="mailto:mohammad-elprince@proton.me">
-Email
+<img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail"/>
 </a>
 
 </p>
