@@ -29,8 +29,6 @@
 ---
 
 # 🚀 About Me
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2"/>
 
 I'm a software engineer passionate about building **production-ready AI systems** powered by Large Language Models, cloud-native infrastructure, and scalable backend services.
 
@@ -45,7 +43,7 @@ My background combines:
 
 I enjoy transforming complex problems into reliable software with clean architecture and thoughtful engineering.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 💼 Currently
 
@@ -55,7 +53,7 @@ I enjoy transforming complex problems into reliable software with clean architec
 - 📚 Continuously learning modern AI engineering practices
 - 🎯 Open to AI Software Engineer, Backend Engineer, Cloud Engineer, and Agentic AI roles
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🛠 Tech Stack
 
@@ -108,7 +106,7 @@ CDK • Lambda • API Gateway • CloudFront
 S3 • RDS • IAM • VPC • Route53
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🚀 What I Build
 
@@ -132,7 +130,7 @@ S3 • RDS • IAM • VPC • Route53
 
 > Modern web applications using React, Next.js and TypeScript.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🏆 Certifications
 
@@ -140,7 +138,7 @@ S3 • RDS • IAM • VPC • Route53
 
 ✅ AWS Certified Cloud Practitioner
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📈 GitHub Analytics
 
@@ -158,7 +156,7 @@ S3 • RDS • IAM • VPC • Route53
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📊 Contribution Graph
 
@@ -168,7 +166,7 @@ S3 • RDS • IAM • VPC • Route53
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🏅 GitHub Trophies
 
@@ -178,7 +176,7 @@ S3 • RDS • IAM • VPC • Route53
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🐍 Contribution Snake
 
@@ -188,7 +186,7 @@ S3 • RDS • IAM • VPC • Route53
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🌎 Let's Connect
 
@@ -210,7 +208,7 @@ S3 • RDS • IAM • VPC • Route53
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <div align="center">
 
